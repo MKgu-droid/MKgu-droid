@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+in+Progress;Data+Science+Specialist;Building+Intelligent+Systems">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer+in+Progress;Data+Engineer;Building+Intelligent+Systems">
 </p>
 
 ---
 
 <h1 align="center">⚡ KAIGOSAMA</h1>
-<h3 align="center">Aspiring Full Stack Software Engineer | Data Science Specialist</h3>
+<h3 align="center">Aspiring Software Engineer | Data Engineer</h3>
 
 <p align="center">
 Building scalable systems. Extracting intelligence from data. Engineering the future.
@@ -16,7 +16,7 @@ Building scalable systems. Extracting intelligence from data. Engineering the fu
 ## 🧠 Core Focus
 
 - 🌐 Full Stack Development (Frontend + Backend Systems)
-- 📊 Data Science & Analytics
+- 📊 Data & Analytics
 - ⚙️ System Design & Architecture
 - 🚀 Scalable Applications
 
