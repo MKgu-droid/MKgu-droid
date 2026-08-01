@@ -22,16 +22,6 @@ Building scalable systems. Extracting intelligence from data. Engineering the fu
 
 ---
 
-## 💙 Current Skill Matrix
-
-Learning Enthusiasm  ██████████ 95%  
-Problem Solving      ████████░░ 80%  
-Full Stack Dev       ███████░░░ 70%  
-Data Science         ██████░░░░ 60%  
-System Design        █████░░░░░ 50%
-
----
-
 ## ⚡ Tech Arsenal
 
 ### 💻 Languages
